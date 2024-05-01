@@ -1,0 +1,4 @@
+PyQt6==6.4.2
+numpy==1.26.1
+pyqtgraph==0.13.3
+opencv-python==4.9.0
