@@ -20,4 +20,3 @@ Image Alchemy project is an `Image Processing Toolbox`, a comprehensive toolkit 
    python App1.py
    ```
 
-#![](https://komarev.com/ghpvc/?username=MohamedMandour10&color=green)
