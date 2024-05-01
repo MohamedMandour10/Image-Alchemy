@@ -1,4 +1,4 @@
-<h1 align="left"> Image Alchemy for CV </h1>
+<h1 align="left"> Image Alchemy for CV 👁️ </h1>
 
 ![Image Alchemy UI](https://i.ibb.co/WfPBbRh/FULL2.png)
 ## Overview
